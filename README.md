@@ -6,9 +6,11 @@ This is a simulated real-time chat platform based on multithreading and Socket. 
 
 
 ## Instrcution
+```
 1- Add this project to your workspace and open it in IntelliJ IDEA
 2- run the server ChatRoomSeverMain.java
 3- run the Client LoginMain.java
+```
 
 ## Details
 ### Sever Port
